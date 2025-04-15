@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aishika
+- 👋 hi,im aishika!
 
 
 <!---
