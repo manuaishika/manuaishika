@@ -1,5 +1,6 @@
-- hi,im aishika!
-- im mostly implementing ml papers or making new repositories that i forget about.
+- hi,im aishika <3
+- you can find me making new random repos quite often for projects i will ultimately forget about.
+- implementing ml papers currently. 
 
 
 <!---
