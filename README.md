@@ -1,5 +1,4 @@
-- hi,im aishika <3
-- you can find me making new random repos quite often for projects i will ultimately forget about.
+- hi,im aishika!
 - building fun stuff and exploring ml and quant(mostly)
 
 
