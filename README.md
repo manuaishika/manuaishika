@@ -1,5 +1,5 @@
 - hi,im aishika!
-- building fun stuff and exploring ml and quant(mostly)
+- building fun stuff and exploring impactful areas of ai concurrently. 
 
 
 <!---
