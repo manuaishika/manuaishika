@@ -1,4 +1,4 @@
-- hi,im aishika!
+- hi!
 - building fun stuff and exploring impactful areas of ai concurrently. 
 
 
